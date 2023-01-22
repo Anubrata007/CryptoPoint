@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CryptoPoint/static/css/main.8f957e7e.chunk.css",
+    "main.js": "/CryptoPoint/static/js/main.b714814f.chunk.js",
+    "main.js.map": "/CryptoPoint/static/js/main.b714814f.chunk.js.map",
+    "runtime-main.js": "/CryptoPoint/static/js/runtime-main.f01170cc.js",
+    "runtime-main.js.map": "/CryptoPoint/static/js/runtime-main.f01170cc.js.map",
+    "static/css/2.cf22a21b.chunk.css": "/CryptoPoint/static/css/2.cf22a21b.chunk.css",
+    "static/js/2.e9721d69.chunk.js": "/CryptoPoint/static/js/2.e9721d69.chunk.js",
+    "static/js/2.e9721d69.chunk.js.map": "/CryptoPoint/static/js/2.e9721d69.chunk.js.map",
+    "index.html": "/CryptoPoint/index.html",
+    "static/css/2.cf22a21b.chunk.css.map": "/CryptoPoint/static/css/2.cf22a21b.chunk.css.map",
+    "static/css/main.8f957e7e.chunk.css.map": "/CryptoPoint/static/css/main.8f957e7e.chunk.css.map",
+    "static/js/2.e9721d69.chunk.js.LICENSE.txt": "/CryptoPoint/static/js/2.e9721d69.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f01170cc.js",
+    "static/css/2.cf22a21b.chunk.css",
+    "static/js/2.e9721d69.chunk.js",
+    "static/css/main.8f957e7e.chunk.css",
+    "static/js/main.b714814f.chunk.js"
+  ]
+}
